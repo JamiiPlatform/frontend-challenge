@@ -36,6 +36,7 @@
         "@mantine/prism": "^4.2.10",
         "@mantine/rte": "^4.2.10",
         "@mantine/spotlight": "^4.2.10",
-        "dayjs": "^1.11.3"
+        "dayjs": "^1.11.3",
+        "tabler-icons-react": "^1.52.0"
     }
 }
